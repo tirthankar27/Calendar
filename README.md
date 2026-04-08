@@ -18,7 +18,7 @@ A modern and interactive calendar application with **date range selection** and 
 
 ## 🖼️ Preview
 
-![App Screenshot](https://images.unsplash.com/photo-1501785888041-af3ef285b470)
+![App Screenshot](assets/preview.png)
 
 ---
 
